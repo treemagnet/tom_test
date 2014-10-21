@@ -1,0 +1,10 @@
+{
+    "name": "tom_test",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "c",
+    "executable": "tom_test.script",
+    "author": "treemagnet",
+    "minimum_firmware_version": 42
+}
